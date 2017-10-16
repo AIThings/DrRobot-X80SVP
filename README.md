@@ -2,7 +2,7 @@
 Framework for DrRobot X80
 
 Add all the directories to your catkin_ws and run catkin_make
-Then run
+Then run these 3 commands in 3 different terminals.
 
 $roscore
 
